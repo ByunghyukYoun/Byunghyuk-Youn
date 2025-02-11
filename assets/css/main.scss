@@ -162,17 +162,8 @@ p.minor{ margin-left: 1em}
     border-radius: 0%;
     border-width: 0px;
     border-color: #000000;
-    filter: none !important;
-    opacity: 1 !important;
-    transition: none !important;
+    
 }
-
-.author__avatar img:hover {
-    filter: none !important;
-    opacity: 1 !important;
-    transition: none !important;
-}
-
 
 @media screen and (max-width:1023px) {
     .my_paper{
