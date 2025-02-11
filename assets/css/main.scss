@@ -162,6 +162,10 @@ p.minor{ margin-left: 1em}
     border-radius: 0%;
     border-width: 00px;
     border-color: #000000 // #337def; // 
+    filter: none !important; /* 흐림 효과 제거 */
+    opacity: 1 !important; /* 투명도 유지 */
+    transition: none !important; /* 호버 시 애니메이션 제거 */
+    pointer-events: none; /* 마우스 이벤트 제거 (선택적) */
 }
 
 
