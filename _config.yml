@@ -124,7 +124,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Min Kim"
+  name             : "Byunghyuk Youn"
   avatar           : "/assets/files/picture.jpg"
   bio              : "Master Candidate @ Information System Lab, CBNU"
   # location         : "S4-1 room 306, Chungdae-ro 1, Seowon-gu, Cheongju, Chungbuk, 28644, ROK"
@@ -132,13 +132,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:kmin010287@chungbuk.ac.kr"
+      url: "mailto:ybh0311@chungbuk.ac.kr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mineruking/"
+      url: "https://github.com/ByunghyukYoun/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.kr/null"
+      url: "https://scholar.google.co.kr/citations?hl=ko&user=2Kai61gAAAAJ&view_op=list_works&gmla=AOv-ny_yInihY4wKTheqoNNJHEASwBfvIqV1t4gRxC7R3Wzl9gNbHHD_SmaWIKWfXL54EjF01yH87_iBf3Vs0OK1DidyGhuxwAv3LwTOJo4jnUoEDoowLwWzIg"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/%EB%AF%BC-%EA%B9%80-8211152a8/"
