@@ -160,10 +160,18 @@ p.minor{ margin-left: 1em}
 .author__avatar img {
     max-width: 200px;
     border-radius: 0%;
-    border-width: 00px;
-    border-color: #000000 // #337def; // 
+    border-width: 0px;
+    border-color: #000000;
+    filter: none !important;
+    opacity: 1 !important;
+    transition: none !important;
 }
 
+.author__avatar img:hover {
+    filter: none !important;
+    opacity: 1 !important;
+    transition: none !important;
+}
 
 
 @media screen and (max-width:1023px) {
